@@ -1,0 +1,9 @@
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\bin\Debug\Assignment05Fall2017_lawsonm6.exe.config
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\bin\Debug\Assignment05Fall2017_lawsonm6.exe
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\bin\Debug\Assignment05Fall2017_lawsonm6.pdb
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\obj\Debug\lawsonm6_Assignment07.csprojAssemblyReference.cache
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\obj\Debug\Assignment05Fall2017_lawsonm6.frmBinaryAddition.resources
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\obj\Debug\lawsonm6_Assignment07.csproj.GenerateResource.cache
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\obj\Debug\lawsonm6_Assignment07.csproj.CoreCompileInputs.cache
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\obj\Debug\Assignment05Fall2017_lawsonm6.exe
+C:\School\Random Software Projects\lawsonm6_Assignment07\lawsonm6_Assignment07\Assignment05Fall2017\obj\Debug\Assignment05Fall2017_lawsonm6.pdb
